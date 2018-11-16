@@ -1,7 +1,7 @@
 {
-  "name": "sell",
+  "name": "project",
   "version": "1.0.0",
-  "description": "sell app",
+  "description": "project template",
   "author": "",
   "private": true,
   "scripts": {
