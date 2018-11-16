@@ -1,6 +1,6 @@
-# sell
+# Vue2.0
 
-> sell app
+> 基本的vue项目框架
 
 ## Build Setup
 
